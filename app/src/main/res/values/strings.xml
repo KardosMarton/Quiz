@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">The Big Bang Theory Quiz</string>
+    <string name="Question1">1.	When should sing the song „Soft Kitty” to Sheldon?</string>
+    <string name="Question2">2.	How many times Sheldon knocks on the door?</string>
+    <string name="Question3">7.	Please write here, who does NOT have a Ph.D from the 4 men?</string>
+    <string name="Question4">3.	Despite wanting his astronaut nickname to be "Rocket Man," what nickname does Howard actually end up with? </string>
+    <string name="Question5">4.	What are Penny, Amy, Sheldon, and Leonard in the middle of when Howard returns from space that causes them to yell, "NOT NOW!" at him?</string>
+    <string name="Question6">5.	What is Sheldon\'s middle name?</string>
+    <string name="Question7">6.	Which of the following ladies were dating with Rajesh (More right answer) </string>
+    <string name="Question8">8.	Please, write the name of the gang\'s robot that they enter into the Southern California Robot Fighting League Round-Robin Invitational.</string>
+    <string name="Question9">9.	Which were the name of the cats that Sheldon adopts after he and Amy break up in Season 4? (More right answer)</string>
+    <string name="Question10">10. Finish this game title: "Rock, paper, scissors,…(2 right answer)</string>
+
+    <string name="AnswerQ1A1">a - When he’s sick</string>
+    <string name="AnswerQ1A2">b - When he’s sad</string>
+    <string name="AnswerQ1A3">c - When he has a bad day</string>
+    <string name="AnswerQ1A4">d - When he’s happy</string>
+
+    <string name="AnswerQ2A1">a - Twice</string>
+    <string name="AnswerQ2A2">b - Ten times</string>
+    <string name="AnswerQ2A3">c - Once </string>
+    <string name="AnswerQ2A4">d - Three times </string>
+
+    <string name="AnswerQ3">Sheldon/Raj/Leonard/Howard</string>
+
+    <string name="AnswerQ4A1">a - Space cowboy</string>
+    <string name="AnswerQ4A2">b - Fruit Loops</string>
+    <string name="AnswerQ4A3">c - Buzz</string>
+
+    <string name="AnswerQ5A1">a - watching a movie</string>
+    <string name="AnswerQ5A2">b - skype with Stephen Hawking</string>
+    <string name="AnswerQ5A3">c - a pie eating contest</string>
+
+    <string name="AnswerQ6A1">a - Thomas</string>
+    <string name="AnswerQ6A2">b - Ben</string>
+    <string name="AnswerQ6A3">c - Joseph</string>
+    <string name="AnswerQ6A4">d - Lee</string>
+
+    <string name="AnswerQ7A1">a - Lucy </string>
+    <string name="AnswerQ7A2">b - Amy</string>
+    <string name="AnswerQ7A3">c - Emily</string>
+    <string name="AnswerQ7A4">d - Penny</string>
+    <string name="AnswerQ7A5">e - Bernadette</string>
+
+    <string name="AnswerQ8">Robot name</string>
+
+    <string name="AnswerQ9A1">a - Richard Feynman</string>
+    <string name="AnswerQ9A2">b - Zazzles</string>
+    <string name="AnswerQ9A3">c - Fuzzyboots</string>
+    <string name="AnswerQ9A4">d - Dr. Robert Oppenheimer</string>
+    <string name="AnswerQ9A5">e - Edward Teller</string>
+
+    <string name="AnswerQ10A1">a - Data</string>
+    <string name="AnswerQ10A2">b - Lizard</string>
+    <string name="AnswerQ10A3">c - Picard </string>
+    <string name="AnswerQ10A4">d - Frog</string>
+    <string name="AnswerQ10A5">e - Spock</string>
+
+    <string name="SubmitButton">Submit</string>
+    <string name="ViaEmailButton">Send result via e-mail</string>
+    <string name="RetakeButton">Retake test</string>
+    <string name="score">YOUR SCORE:</string>
+    <string name="points">points</string>
+    <string name="correctAnswers">Correct answers:</string>
+    <string name="partiallyCorrect">Partially correct:</string>
+    <string name="submitting">Submitting the answers...</string>
+    <string name="sendingViaMail">Sending result via mail.</string>
+    <string name="clearingAnswers">Clearing answers..</string>
+    <string name="mailSubject">Result of the Big Bang Theory Quiz</string>
+
+</resources>
