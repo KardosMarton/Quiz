@@ -1,5 +1,5 @@
 # Quiz
-Simple quiz from the beloved TV Series The Big Bang Theory
+Simple android quiz application from the beloved TV Series: The Big Bang Theory
 
 Multilanguage app (default: english, available extra language in hungarian).
 
